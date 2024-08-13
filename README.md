@@ -1,5 +1,5 @@
 Dhruvayu :  A comprehensive dashboard that analyzes climate change data to identify trends, patterns, and impacts on a global scale.        
-[Dataset used -->](climate_change_indicators.csv)
+[Dataset](climate_change_indicators.csv)                                  
 Indicators representing the mean temperature increased over the years.
 ![Introductory Page](project_photos/Indicator.png)
 Bar-Graph indicating the countries with high mean temperature.
