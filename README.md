@@ -8,8 +8,6 @@ Bar-Graph indicating the countries with high mean temperature.
 ![Country Wise BarGraph](project_photos/Bar_Graph.png)
 ![Year Wise LineChart](project_photos/Line_Chart.png)
 
-Represents choropleth map to present temperature of each country on globe.
-![Orthographic Projection](project_photos/Global_Earth.png)
 
 
 
