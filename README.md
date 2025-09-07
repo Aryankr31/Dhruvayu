@@ -8,7 +8,8 @@ Link for the Dataset --> [Dataset](climate_change_indicators.csv)
 ![Country Wise BarGraph](project_photos/Bar_Graph.png)
 ![Year Wise LineChart](project_photos/Line_Chart.png)
 
-.
+
+
 
 
 
