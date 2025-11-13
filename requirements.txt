@@ -1,0 +1,12 @@
+streamlit==1.51.0
+pandas
+plotly
+numpy
+seaborn
+matplotlib
+requests
+streamlit-lottie
+pyarrow
+altair
+gitpython
+watchdog
